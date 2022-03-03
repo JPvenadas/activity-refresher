@@ -59,6 +59,4 @@ const studentList = new StudentList([
     student5
 ]);
 
-console.log(studentList.updateCollege('B2020-0505', "COA"))
-
 
