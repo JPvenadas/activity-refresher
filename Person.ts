@@ -24,3 +24,5 @@ export class Person {
         return this.age;
     }
 }
+
+const person1 = new Person("a",1,"1","1")
